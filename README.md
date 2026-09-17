@@ -1,3 +1,7 @@
+Live link:-https://calculator-reactjs-nestjs.ai.studio/
+
+<img width="855" height="895" alt="image" src="https://github.com/user-attachments/assets/2c419274-c064-45af-9415-568f6fa97d91" />
+
 # NestJS Calculator
 
 A full-stack, enterprise-grade calculator application powered by an embedded **NestJS v12** backend and a responsive **React 19** frontend built with **Vite**, **Tailwind CSS**, and **Motion**.
